@@ -1,10 +1,10 @@
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!+BY+SEM2JOB)
 
 ## 😎 Credit
 
-🥳 Credit Goes To [Tushar](https://t.me/SEM2JOB)
+🥳 Credit Goes To [SEM2JOB](https://t.me/SEM2JOB)
 
   
 ## 🔥 Commands
